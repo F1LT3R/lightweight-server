@@ -19,7 +19,7 @@
 
 To change which path is launched, change the `serve` command in `package.json`.
 
-```json
+```js
 {
     "private": true,
     "scripts": {
